@@ -43,11 +43,14 @@ git clone https://github.com/fjord-themes/fjord-zsh.git --depth 1
 2. Copy the theme file to your Zsh themes directory:
 
 ```bash
-mkdir -p ~/.config/zsh/themes/
-cp fjord-Zsh/themes/fjord.zsh-theme ~/.config/zsh/themes/.
+mkdir -p ~/.oh-my-zsh/custom/themes/
+cp fjord-zsh/themes/fjord.zsh-theme ~/.oh-my-zsh/custom/themes/.
 ```
 
 3. Add the theme to your Zsh config (`~/.zshrc`):
+```bash
+ZSH_THEME="fjord"
+```
 
 
 
@@ -62,10 +65,6 @@ The theme includes:
 - Optimized prompt segments for Git, directory, and language info
 - Visual separation using color gradients
 - Status indicators with appropriate colors
-## 📸 Preview
-
-![Fjord Zsh Theme](https://github.com/fjord-theme/Fjord/blob/main/images/dash.png)
-
 
 ## 🔄 Updates
 
