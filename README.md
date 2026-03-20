@@ -33,28 +33,25 @@ A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/
 ### Manual Installation
 
 
-1. Clone this repository:
-
-```bash
-git clone https://github.com/fjord-themes/fjord-zsh.git --depth 1
-```
-
-
-2. Copy the theme file to your Zsh themes directory:
+1. Clone the theme to your config directory:
 
 ```bash
 mkdir -p ~/.oh-my-zsh/custom/themes/
-cp fjord-zsh/themes/fjord.zsh-theme ~/.oh-my-zsh/custom/themes/.
+git clone https://github.com/fjord-themes/fjord-zsh.git --depth 1 ~/.oh-my-zsh/custom/themes/fjord-zsh
 ```
 
-3. Add the theme to your Zsh config (`~/.zshrc`):
+2. Symlink the theme file for oh-my-zsh:
+
+```bash
+ln -sf ~/.oh-my-zsh/custom/themes/fjord-zsh/themes/fjord.zsh-theme ~/.oh-my-zsh/custom/themes/fjord.zsh-theme
+```
+
+3. Add to your config (`~/.zshrc`):
 ```bash
 ZSH_THEME="fjord"
 ```
 
-
-
-
+4. Reload your shell (`source ~/.zshrc`) or open a new terminal.
 
 
 ## 🔧 Configuration
