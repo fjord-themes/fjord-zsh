@@ -22,8 +22,8 @@ A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/
 | ---- | ---------------------------- |
 | ![green](https://img.shields.io/badge/%239DD99A-9DD99A) | **green** _(primary accent)_ |
 | ![blue](https://img.shields.io/badge/%235DA6EA-5DA6EA) | **blue** |
-| ![yellow](https://img.shields.io/badge/%23C8B860-C8B860) | **yellow** |
-| ![purple](https://img.shields.io/badge/%23A8A4F8-A8A4F8) | **purple** |
+| ![yellow](https://img.shields.io/badge/%23FFD285-FFD285) | **yellow** |
+| ![purple](https://img.shields.io/badge/%23B9A0F8-B9A0F8) | **purple** |
 | ![red](https://img.shields.io/badge/%23F37C7C-F37C7C) | **red** |
 | ![cyan](https://img.shields.io/badge/%23B8E7E9-B8E7E9) | **cyan** |
 
