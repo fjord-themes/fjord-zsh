@@ -2,6 +2,7 @@
 
 A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation for the Zsh prompt.
 
+
 ## 🎨 Color Palette
 
 ### Core Colors
@@ -62,7 +63,6 @@ The theme includes:
 - Optimized prompt segments for Git, directory, and language info
 - Visual separation using color gradients
 - Status indicators with appropriate colors
-
 ## 🔄 Updates
 
 This theme is automatically generated from [fjord-core](https://github.com/fjord-themes/fjord-core) and deployed on every release. For an overview of all supported platforms and the full color palette, visit the [Fjord GitHub page](https://github.com/fjord-themes).
