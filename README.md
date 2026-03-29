@@ -38,7 +38,7 @@ A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/c
 
 ```bash
 mkdir -p ~/.oh-my-zsh/custom/themes/
-git clone https://git.jshuntley.com/fjord-theme/fjord-zsh.git --depth 1 ~/.oh-my-zsh/custom/themes/fjord-zsh
+git clone https://github.com/fjord-themes/fjord-zsh.git --depth 1 ~/.oh-my-zsh/custom/themes/fjord-zsh
 ```
 
 2. Symlink the theme file for oh-my-zsh:
