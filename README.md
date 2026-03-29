@@ -41,7 +41,9 @@ mkdir -p ~/.oh-my-zsh/custom/themes/
 git clone https://github.com/fjord-themes/fjord-zsh.git --depth 1 ~/.oh-my-zsh/custom/themes/fjord-zsh
 ```
 
-2. Symlink the theme file for oh-my-zsh:
+> **Requires [oh-my-zsh](https://ohmyz.sh).** If you're using plain Zsh, skip steps 2–3 and add `source ~/.oh-my-zsh/custom/themes/fjord-zsh/themes/fjord.zsh-theme` to your `.zshrc` instead.
+
+2. Symlink the theme file into your oh-my-zsh custom themes directory:
 
 ```bash
 ln -sf ~/.oh-my-zsh/custom/themes/fjord-zsh/themes/fjord.zsh-theme ~/.oh-my-zsh/custom/themes/fjord.zsh-theme
@@ -49,7 +51,7 @@ ln -sf ~/.oh-my-zsh/custom/themes/fjord-zsh/themes/fjord.zsh-theme ~/.oh-my-zsh/
 
 3. Add to your config (`~/.zshrc`):
 ```bash
-ZSH_THEME="fjord"
+ZSH_THEME="fjord"  # Add this before: source $ZSH/oh-my-zsh.sh
 ```
 
 4. Reload your shell (`source ~/.zshrc`) or open a new terminal.
