@@ -3,10 +3,10 @@
 # Dusk-blue base with soft leaf-green accents, crisp blue/cyan separation
 
 # --- Fjord palette (injected) ---
-FJORD_BG="#1B2532"
-FJORD_BG_ALT="#222E3F"
-FJORD_SURFACE="#1F2A39"
-FJORD_LINE="#233141"
+FJORD_BG="#1B2C32"
+FJORD_BG_ALT="#22373F"
+FJORD_SURFACE="#1F3239"
+FJORD_LINE="#233941"
 
 FJORD_FG="#E8F0F3"
 FJORD_MUTED="#6C7A86"
