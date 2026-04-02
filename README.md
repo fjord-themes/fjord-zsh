@@ -9,10 +9,10 @@ A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/c
 
 | Color | Name |
 | ---- | ----------------- |
-| ![background](https://img.shields.io/badge/%231B2532-1B2532) | **background** |
-| ![backgroundAlt](https://img.shields.io/badge/%23222E3F-222E3F) | **backgroundAlt** |
-| ![surface](https://img.shields.io/badge/%231F2A39-1F2A39) | **surface** |
-| ![line](https://img.shields.io/badge/%23233141-233141) | **line** |
+| ![background](https://img.shields.io/badge/%231B2C32-1B2C32) | **background** |
+| ![backgroundAlt](https://img.shields.io/badge/%2322373F-22373F) | **backgroundAlt** |
+| ![surface](https://img.shields.io/badge/%231F3239-1F3239) | **surface** |
+| ![line](https://img.shields.io/badge/%23233941-233941) | **line** |
 | ![foreground](https://img.shields.io/badge/%23E8F0F3-E8F0F3) | **foreground** |
 | ![muted](https://img.shields.io/badge/%236C7A86-6C7A86) | **muted** |
 | ![mutedDim](https://img.shields.io/badge/%2351606B-51606B) | **mutedDim** |
